@@ -44,6 +44,23 @@ Movie-Recommendation-System/
  ```bash
     streamlit run app.py
 ```
+## 📂 Dataset / Artifacts
+Due to GitHub size restrictions, the required pickle files are not included.  
+
+Download them here:  
+- [movie_list.pkl]([https://drive.google.com/file/d/1VUmU_SKtjVT8GgHjk5SJT-Aoi0prYN0w/view?usp=sharing])  
+- [similarity.pkl]([https://drive.google.com/file/d/168VXGgrS1ZejbJPzPQ61sWgfNFGXSj1p/view?usp=sharing])  
+
+Place them inside the `artifacts/` folder before running the app.
+
+Example structure:
+Movie-Recommendation-System/
+│-- artifacts/
+│ │-- movie_list.pkl
+│ │-- similarity.pkl
+│-- app.py
+│-- requirements.txt
+│-- README.md
 
 📊 Future Improvements
 
