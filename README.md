@@ -35,11 +35,15 @@ Movie-Recommendation-System/
    ```bash
    git clone https://github.com/kashish8001/Movie-Recommendation-System.git
    cd Movie-Recommendation-System
+   ```
 2. Install dependencies
-    pip install -r requirements.txt
-
-3. Run the Streamlit app
+   ```bash
+      pip install -r requirements.txt
+   ```
+4. Run the Streamlit app
+ ```bash
     streamlit run app.py
+```
 
 📊 Future Improvements
 
