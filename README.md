@@ -21,12 +21,17 @@ Built using **Python, Pandas, Scikit-learn, and Streamlit**.
 ---
 
 ## 📂 Project Structure
-Movie-Recommendation-System/
-│-- data/ # Dataset files
-│-- notebooks/ # Jupyter notebooks
-│-- app.py # Streamlit app
-│-- requirements.txt # Dependencies
-│-- README.md # Project documentation
+Movie-Recommendation-System/ 
+
+│-- data/ # Dataset files 
+
+│-- notebooks/ # Jupyter notebooks 
+
+│-- app.py # Streamlit app 
+
+│-- requirements.txt # Dependencies 
+
+│-- README.md # Project documentation 
 
 ---
 
@@ -55,6 +60,7 @@ Download them here:
 Place them inside the `artifacts/` folder before running the app.
 
 Example structure:
+
 Movie-Recommendation-System/
 
 │-- artifacts/ 
