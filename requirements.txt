@@ -1,4 +1,6 @@
 streamlit
-
-#local packages
--e.
+requests
+pandas
+numpy
+pickle5
+python-dotenv
